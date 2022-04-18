@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "react-native-nft-marketplace",
+    "name": "NFT Marketplace",
     "slug": "react-native-nft-marketplace",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -23,10 +23,12 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.debva.nftmarketplace"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
